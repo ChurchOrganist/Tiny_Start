@@ -1,0 +1,11 @@
+{
+  "name": "Tiny_Start",
+  "version": "0.16.0",
+  "title": "TinyStart for Factorio 0.16",
+  "author": "ChurchOrganist",
+  "contact": "",
+  "homepage": "",
+  "factorio_version": "0.16",
+  "dependencies": ["base >= 0.16"],
+  "description": "Port to Factorio 0.16 of Yehn's TinyStart mod. A small starter kit with a tier 0 power armor with a mini fusion reactor and all the accoutrements you need for robot construction. Does not include any additional starting resources."
+}
